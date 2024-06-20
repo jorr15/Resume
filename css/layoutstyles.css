@@ -1,0 +1,32 @@
+/* Start of final code */
+.common {
+    border: 9px solid white;
+    position: absolute;
+}
+.header {
+    top: 5px;
+    right: 5px;
+    left: 5px;
+    height: 100px;
+    border-bottom: 1px solid #555555;
+}
+.mainbody{
+    top: 114px;
+    left: 5px;
+    right: 5px;
+    height: 850px;
+}
+.tableauchart {
+     top: 1000px;
+    left: 5px;
+    right: 5px;
+    height: 1050px;
+}
+.rightmenu {
+    top: 114px;
+    right: 5px;
+    width: 600px;
+}
+.subheader{
+    float: right;
+}
